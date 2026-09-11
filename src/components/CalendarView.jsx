@@ -1,0 +1,1 @@
+export default function CalendarView(){return <div><h2>Calendrier</h2><p>Vue calendrier mensuelle</p></div>;}

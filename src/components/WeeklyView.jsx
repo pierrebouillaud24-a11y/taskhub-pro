@@ -1,0 +1,1 @@
+export default function WeeklyView(){return <div><h2>Semaine</h2></div>;}

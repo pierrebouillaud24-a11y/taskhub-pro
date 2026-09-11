@@ -1,0 +1,1 @@
+export default function Dashboard({tasks}){const done=tasks.filter(t=>t.done).length;return <div><h2>Dashboard</h2><p>{done}/{tasks.length} terminées</p></div>;}
